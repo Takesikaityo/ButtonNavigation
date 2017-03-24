@@ -9,6 +9,6 @@ This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
 # スクリーンショット
-(https://github.com/Takesikaityo/ButtonNavigation/blob/master/screenshots/device-2017-03-24-232701.png?raw=true)
-(https://github.com/Takesikaityo/ButtonNavigation/blob/master/screenshots/device-2017-03-24-232848.png?raw=true)
-(https://github.com/Takesikaityo/ButtonNavigation/blob/master/screenshots/device-2017-03-24-232905.png?raw=true)
+![タブ1](https://github.com/Takesikaityo/ButtonNavigation/blob/master/screenshots/device-2017-03-24-232701.png?raw=true)
+![タブ2](https://github.com/Takesikaityo/ButtonNavigation/blob/master/screenshots/device-2017-03-24-232848.png?raw=true)
+![タブ3](https://github.com/Takesikaityo/ButtonNavigation/blob/master/screenshots/device-2017-03-24-232905.png?raw=true)
